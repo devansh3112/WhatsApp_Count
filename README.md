@@ -12,6 +12,9 @@ This repository provides tools to analyze WhatsApp chat exports, generating insi
 - 🖼️ **Media Tracking**: See who shares the most photos, videos, and other media
 - 📝 **Detailed Reports**: Generate comprehensive statistics reports
 - 🌐 **Word Clouds**: Visualize most common words and phrases
+- 🔍 **Advanced Filtering**: Filter analysis by date range or specific participants
+- 📊 **Export Options**: Save results in various formats for further analysis
+- 🌙 **Dark/Light Mode**: Choose visualization themes to suit your preference
 
 ## 🚀 Quick Start
 
