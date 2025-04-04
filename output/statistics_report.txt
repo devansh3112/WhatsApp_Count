@@ -1,0 +1,48 @@
+===== WhatsApp Chat Analysis Report =====
+
+Total Messages: 2422
+Total Group Members: 13
+
+Top 5 Most Active Members:
+1. Devansh Shah: 452 messages (18.7%)
+2. Vit Shivam Dave: 374 messages (15.4%)
+3. Vit Hriday Agarwal: 311 messages (12.8%)
+4. Vit Aadit Shah: 293 messages (12.1%)
+5. Vit Kathan Shah: 279 messages (11.5%)
+
+Total Media Messages: 376
+Media Messages Percentage: 15.5%
+
+Top 3 Media Senders:
+1. Vit Hriday Agarwal: 289 media messages (76.9%)
+2. Devansh Shah: 19 media messages (5.1%)
+3. Vit Aryan Jariwala: 15 media messages (4.0%)
+
+Most Active Hour: 22:00 - 23:00
+Most Active Day: Thursday
+
+Overall Average Message Length: 5.4 words
+Member with Longest Messages: Vit Malhar Shah (8.3 words on average)
+
+Total Words: 10431
+
+Top 10 Most Used Words:
+1. the: 87 times
+2. hai: 81 times
+3. che: 80 times
+4. chhe: 73 times
+5. toh: 68 times
+6. was: 56 times
+7. for: 48 times
+8. message: 48 times
+9. bhai: 44 times
+10. and: 38 times
+
+Total Emojis: 796
+
+Top 5 Most Used Emojis:
+1. 😭: 299 times
+2. 😂: 168 times
+3. 💀: 72 times
+4. 🙏: 37 times
+5. 🏻: 21 times
