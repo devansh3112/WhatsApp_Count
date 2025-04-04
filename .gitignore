@@ -39,6 +39,8 @@ Thumbs.db
 WhatsApp*.txt
 !output/sample_chat.txt  # Keep sample data if exists
 
-# Keep output directory but ignore its contents
+# Keep output directory but include necessary files
 output/*
-!output/.gitkeep 
+!output/.gitkeep
+!output/*.png
+!output/statistics_report.txt 
