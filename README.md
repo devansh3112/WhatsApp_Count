@@ -1,7 +1,5 @@
 # WhatsApp Chat Analyzer
 
-![WhatsApp Analysis](whatsapp_analysis.png)
-
 ## 📊 Overview
 
 This repository provides tools to analyze WhatsApp chat exports, generating insightful statistics and visualizations about your conversations. From message frequency to emoji usage patterns, discover hidden trends in your chats!
