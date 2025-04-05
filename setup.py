@@ -31,4 +31,4 @@ setup(
             "whatsapp-deep-analyzer=deep_whatsapp_analyzer:main",
         ],
     },
-) 
+)
